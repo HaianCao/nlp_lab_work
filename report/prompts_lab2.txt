@@ -1,0 +1,6 @@
+1. Kiểm tra chương trình của tôi đã có cấu trúc chia thành các module đủ tốt chưa,
+nếu không hay cho tôi biết cách sửa lại
+
+2. Thêm module đo thời gian của từng stage trong pipeline
+
+3. Viết cho tôi file .gitignore và README.md theo đúng với chương trình của tôi

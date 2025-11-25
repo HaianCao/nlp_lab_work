@@ -1,0 +1,20 @@
+============================================================
+DETAILED PIPELINE TIMING LOG
+Started at: 2025-11-21 07:56:29
+============================================================
+
+📋 CONFIGURATION:
+  Total Records: 30000
+
+📊 TIMING BREAKDOWN:
+  Data loading         :   10.693s (  6.4%)
+  RegexTokenizer       :    1.675s (  1.0%)
+  StopWordsRemover     :    1.431s (  0.9%)
+  HashingTF            :    1.156s (  0.7%)
+  IDF                  :   25.447s ( 15.2%)
+  Normalizer           :    1.219s (  0.7%)
+  Output saving        :   41.990s ( 25.1%)
+  Find similar documents :   83.333s ( 49.8%)
+--------------------------------------------------
+  TOTAL TIME           :  167.204s (100.0%)
+============================================================
