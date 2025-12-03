@@ -64,8 +64,10 @@ lab_work/
 │   ├── lab4.md           # Lab4 report (Text Classification)
 │   ├── lab5_part2.md     # Lab5 report (Intent Classification)
 │   ├── lab5_part4.md     # Lab5 report (NER with Bi-LSTM)
+│   ├── lab_X.pdf         # Lab X report (Text To Speech)
 │   └── prompts_lab2.txt  # Lab2 prompts và queries
 ├── data/                 # Data files và datasets
+│   ├── README.md                 # Mô tả dữ liệu
 │   ├── en_ewt-ud-train.txt       # Universal Dependencies train set (lab1)
 │   ├── en_ewt-ud-dev.txt         # Universal Dependencies dev set (lab1)
 │   ├── en_ewt-ud-test.txt        # Universal Dependencies test set (lab1)
